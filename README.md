@@ -47,7 +47,6 @@ When nothing's left, you'll see **Good to go**, so send it to dev.
 
 ## Troubleshooting
 
-- **Plugin missing under Development:** use the desktop app. If you moved the folder, import `manifest.json` again.
 - **A spacing fix inside a component failed:** Figma doesn't allow some layout overrides on component copies. Fix it in the main component.
 - **Stuck on "Applying…":** open **Plugins › Development › Show/Hide console** and send the error over.
 

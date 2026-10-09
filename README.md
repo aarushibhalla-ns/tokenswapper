@@ -11,8 +11,7 @@ A Figma plugin for the Newton School product design team. Select a flow and it f
 1. **Download and unzip** [`token-swapper-grauity.zip`](docs/token-swapper-grauity.zip). Move the **Token Swapper** folder somewhere permanent, like `Documents/Figma plugins`. Figma runs the plugin from this folder.
 2. **Open the Figma desktop app.** Development plugins don't run in the browser.
 3. **Import it:** in any design file, go to **Menu › Plugins › Development › Import plugin from manifest…** and pick `manifest.json` inside the folder.
-4. **Enable the gra.UI.ty library** in each file you fix: **Assets panel › Libraries › gra.UI.ty Design System › Enable**. Fixes link to the *published* library.
-5. **Run it:** **Plugins › Development › Design Token Swapper (gra.UI.ty)**.
+4. **Run it:** **Plugins › Development › Design Token Swapper (gra.UI.ty)**.
 
 > **Updating:** download the new zip and replace the three files in the same folder. Figma uses the new version the next time you run it, so you don't need to import it again.
 

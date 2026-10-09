@@ -2,7 +2,7 @@
 
 A Figma plugin for the Newton School product design team. Select a flow and it finds every colour, text style, spacing and corner radius that isn't on **gra.UI.ty**, then links it to the published library in a click.
 
-**[⬇ Download the plugin (.zip)](docs/token-swapper-grauity.zip)** · **[Full guide](https://aarushibhalla-ns.github.io/tokenswapper/)**
+**[⬇ Download the plugin (.zip)](docs/token-swapper-grauity.zip)** · **[Full guide](https://claude.ai/artifact/8Z1yxB7HzQrApCMEoPj8DC)** (ask Aarushi for access if it doesn't open)
 
 ---
 
@@ -58,4 +58,4 @@ Questions, bugs or ideas? Message Aarushi in **#core-design**.
 
 ### For maintainers
 
-The plugin is `manifest.json`, `code.js` and `ui.html`. After changing them, run `./package.sh` to rebuild `docs/token-swapper-grauity.zip`, then commit both. The guide is `docs/index.html`; publish it with **GitHub Pages** (Settings › Pages › Deploy from branch › `/docs`).
+The plugin is `manifest.json`, `code.js` and `ui.html`. After changing them, run `./package.sh` to rebuild `docs/token-swapper-grauity.zip`, then commit both. The guide is `docs/index.html`; the shared copy lives at the private link above. If the repo ever goes public (or on a paid GitHub plan), it can also be served with **GitHub Pages** (Settings › Pages › Deploy from branch › `/docs`).
